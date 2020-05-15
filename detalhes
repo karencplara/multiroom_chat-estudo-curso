@@ -1,0 +1,8 @@
+1) criar o diretório
+2) iniciar o npm
+3) express
+4) ejs
+5) consign
+6) body-parser
+7) npm install  express-validator@5.3.1 --save-exact
+8) npm install socket.io --save
